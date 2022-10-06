@@ -1,4 +1,4 @@
-NICKNAME = ""
+NICKNAME = "underham2ter"
 import numpy as np
 import matplotlib.pyplot as plt
 
